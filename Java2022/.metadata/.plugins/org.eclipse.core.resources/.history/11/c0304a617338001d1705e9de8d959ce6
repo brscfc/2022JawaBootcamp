@@ -1,0 +1,9 @@
+package conditionals;
+
+public class mainconditionals {
+
+	public static void main(String[] args) {
+		
+	}
+
+}

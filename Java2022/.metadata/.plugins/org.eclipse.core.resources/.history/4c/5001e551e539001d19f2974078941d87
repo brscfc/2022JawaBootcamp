@@ -1,0 +1,12 @@
+package oop1;
+
+//Classlar PascalCase şeklinde isimlendirilir.
+public class Product {
+	String name;
+	//fieldlar camelCase şeklinde yazılır.
+	double unitPrice;
+	double discount;
+	String imageUrl;  //birden fazla ise imageler array şeklinde kullanabiliriz String[] imageUrls; şeklinde
+	int unitsInStock;
+	
+}

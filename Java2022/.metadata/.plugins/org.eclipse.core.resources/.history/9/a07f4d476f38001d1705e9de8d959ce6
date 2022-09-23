@@ -1,0 +1,20 @@
+package datatypes;
+
+public class maindataypes {
+
+	public static void main(String[] args) {
+		int sayi =12;
+		
+		sayi=1311122;
+		
+		double sayi=12.55;
+		//int ve double gibi birden fazla kod vardır (byte,short,int long, boyutlarına göre farklı basamaklı tam sayıları tutar.
+		//float ve double ise yine boyut ve aralık olarak farklı olma üzere ondalık sayı tutar.
+		
+		char karakter= 'A'; //Tek karakter tutmak için kullanılır. Tek tırnak içerisinde tutulur.
+		karakter= 'B';
+		System.out.println(karakter);
+		
+	}
+
+}

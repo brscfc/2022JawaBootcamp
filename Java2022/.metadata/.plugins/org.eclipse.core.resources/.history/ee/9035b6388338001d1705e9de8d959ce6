@@ -1,0 +1,18 @@
+package loopDemo;
+
+public class Main {
+
+	public static void main(String[] args) {
+									//for birbirine benzer işlemleri tekrarlamak ir döngü şeklinde kullanmak için kullanılır
+		for(int i=2;i<10;i+=2) {	
+			System.out.println(i); 	//++ operatörü birer birer artırmak istenildiğinde kullanılır.
+									//+= ise istenilen miktar doğrultusunda artırma öneğin ikişer ikişer, üçer üçer vs..
+									//<= operatörü ise küçük ve eşit anlamına gelir.
+		}
+		System.out.println("Döngü Bitti");
+		
+		
+
+	}
+
+}
